@@ -4,7 +4,7 @@
 	//----------------------------------------------------------------------------------//
 	
 	/*  Set the URL to your Sendy installation (without the trailing slash) */
-	define('APP_PATH', 'http://5.153.49.222');
+	define('APP_PATH', 'http://sendy.textimz.com');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
 	$dbHost = 'localhost'; //MySQL Hostname
